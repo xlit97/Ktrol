@@ -1,0 +1,3 @@
+rootProject.name='Ktrol'
+include ':app'
+include 'shared_code'
